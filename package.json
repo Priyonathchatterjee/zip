@@ -10,7 +10,7 @@
   "author": "harry",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.4",
-    "socket.io": "^2.3.0"
+    "nodemon": "^2.0.7",
+    "socket.io": "^2.4.1"
   }
 }
