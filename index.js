@@ -1,5 +1,5 @@
 const io = require('socket.io')(https);
-const process.env.PORT || 8000;
+const port = process.env.PORT || 8000;
 
 
 const users = {};
