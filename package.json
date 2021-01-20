@@ -2,10 +2,10 @@
   "name": "nodeserver",
   "version": "1.0.0",
   "description": "this is a node server for myn friends",
-  "main": "index.js",
+  "main": "nodeserver/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "nodeserver/index.js"
   },
   "author": "harry",
   "license": "ISC",
